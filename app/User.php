@@ -14,8 +14,8 @@ class User extends Authenticatable
 
     protected $table ="users";
 
-    const CREATED_AT = 'date_created';
-    const UPDATED_AT = 'date_modified';
+    //const CREATED_AT = 'date_created';
+    //const UPDATED_AT = 'date_modified';
 
     /**
      * The attributes that are mass assignable.
